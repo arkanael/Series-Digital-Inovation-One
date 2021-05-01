@@ -10,10 +10,8 @@
 
 ## Contato
 
-Fábio Cavadas
+Luiz Guilherme Bandeira
 
-Linkedin:  [br.linkedin.com/in/fábiocavadas](https://www.linkedin.com/in/fábiocavadas)
-
-Github:  [github.com/FabioCavadas](https://github.com/FabioCavadas)
+Linkedin:  [https://www.linkedin.com/in/lbandeira/](https://www.linkedin.com/in/lbandeira/)
 
 
